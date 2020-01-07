@@ -1,3 +1,3 @@
-# Completed Project: Handling User Input
+# Handling User Input
 
-Explore the completed project for the [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input) tutorial.
+Use this project to code along with the [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input) tutorial.
